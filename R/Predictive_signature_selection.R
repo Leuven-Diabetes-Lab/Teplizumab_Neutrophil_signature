@@ -1,5 +1,3 @@
-setwd("D:/aCD3_signature/Test_folder")
-
 #Loading libraries:
 library(glmnet)
 library(DESeq2)

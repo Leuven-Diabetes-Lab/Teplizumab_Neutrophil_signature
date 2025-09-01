@@ -1,5 +1,3 @@
-setwd("D:/aCD3_signature/Test_folder")
-
 library("DESeq2")
 library("RColorBrewer")
 library("gplots")
